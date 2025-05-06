@@ -1,5 +1,8 @@
 # 🌱 Estufa Automatizada com Arduino - Controle de Luz para Mudas de Alface
 
+![Ideação Estufatech](https://github.com/user-attachments/assets/3a5e816d-0199-456e-bcbd-bb46c81d9a04)
+
+
 Este projeto tem como objetivo desenvolver um sistema automatizado com **Arduino UNO**, que utiliza um **sensor de luminosidade (LDR)**, **LEDs indicadores** e um **servo motor** responsável por ajustar **persianas de compensado**. O sistema regula a quantidade de luz solar que entra na estufa, proporcionando condições ideais para o crescimento de mudas de alface.
 
 ## 🛠 Componentes Utilizados
