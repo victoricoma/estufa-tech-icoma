@@ -1,0 +1,9 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"RSensor de Luz",1," Fotorresistor"
+"SERVO1, SERVO2",2,"Posicional Micro servo"
+"R2, R3, R4",3,"150 Ω Resistor"
+"D1",1,"Azul LED"
+"D2",1,"Vermelho LED"
+"D3",1,"Verde LED"
+"R1",1,"1 kΩ Resistor"
